@@ -12,7 +12,7 @@ body {
   border-radius: 40px;
   width: 300px;
   height: 600px;
-  background-image: url("/images/fondoMinion.jpeg");
+  background-image: url("../images/fondoMinion.jpeg");
   background-size: cover;
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
 }
@@ -118,7 +118,7 @@ input:checked {
   bottom: 0;
   width: 240px;
   height: 390px;
-  background-image: url("/images/coheteMinion.jpeg");
+  background-image: url("../images/coheteMinion.jpeg");
   background-size: contain;
   background-repeat: no-repeat;
   border-radius: 20px;
@@ -166,7 +166,7 @@ input:checked {
   bottom: 0;
   width: 200px;
   height: 290px;
-  background-image: url("/images/coheteMinion.jpeg");
+  background-image: url("../images/coheteMinion.jpeg");
   background-size: cover;
   border-radius: 20px;
 }
@@ -213,7 +213,7 @@ input:checked {
   bottom: 0;
   width: 180px;
   height: 195px;
-  background-image: url("/images/gummyMinion.jpeg");
+  background-image: url("../images/gummyMinion.jpeg");
   background-size: cover;
   border-radius: 20px;
 }
@@ -227,7 +227,7 @@ input:checked {
   bottom: 0;
   width: 90px;
   height: 80px;
-  background-image: url("/images/paquetesMinion2_preview_rev_2.png");
+  background-image: url("../images/paquetesMinion2_preview_rev_2.png");
 }
 
 .layer-9 {
@@ -238,7 +238,7 @@ input:checked {
   bottom: 0;
   width: 90px;
   height: 90px;
-  background-image: url("/images/minion1_preview_rev_1.png");
+  background-image: url("../images/minion1_preview_rev_1.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -251,7 +251,7 @@ input:checked {
   bottom: 0;
   width: 100px;
   height: 100px;
-  background-image: url("/images/minion2_preview_rev_1.png");
+  background-image: url("../images/minion2_preview_rev_1.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -263,7 +263,7 @@ input:checked {
   right: 0;
   width: 80px;
   height: 270px;
-  background-image: url("/images/gruaMinion_preview_rev_1.png");
+  background-image: url("../images/gruaMinion_preview_rev_1.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
